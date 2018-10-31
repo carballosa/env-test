@@ -56,3 +56,4 @@ Test of setting runtime app environment in different deployments
 
 - https://github.com/johnpapa/vikings
 - https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+- https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a
