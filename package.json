@@ -1,7 +1,7 @@
 {
   "name": "env-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test of setting runtime app environment in different deployments",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,8 +9,8 @@
     "start:dotenv": "node -r dotenv/config server.js",
     "start:debug": "node -r dotenv/config --inspect=9229 server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node.js", "environment", "configuration"],
+  "author": "Jose Carballosa",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
